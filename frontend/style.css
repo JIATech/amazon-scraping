@@ -1,0 +1,13 @@
+/* Bsic styling for the frontend */
+body {
+    font-family: Arial, sans-serif;
+}
+
+input, button {
+    margin: 10px;
+    padding: 10px;
+}
+
+#results {
+    margin-top: 20px;
+}
