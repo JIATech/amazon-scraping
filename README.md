@@ -10,7 +10,7 @@ This application scrapes product details from Amazon search results. It uses Nod
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone **this repo**
    cd amazon-scraper
    ```
 2. **Install Dependencies**
